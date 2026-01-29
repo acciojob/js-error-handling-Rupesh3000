@@ -48,3 +48,5 @@ function evalString(expr) {
   
   // If all checks pass, function just ends (no return needed)
 }
+
+evalString()
